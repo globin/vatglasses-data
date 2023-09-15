@@ -4,6 +4,7 @@
       "id": "Allersberg",
       "group": "EDMM",
       "owner": ["ALB", "RDG", "EGG", "ZUG", "MMC"],
+      "remark": "ALB",
       "sectors": [
         {
           "max": 314,
@@ -64,6 +65,7 @@
     {
       "id": "Bamberg",
       "group": "EDMM",
+      "remark": "BBG",
       "owner": ["BBG", "HOF", "RDG", "EGG", "MMC"],
       "sectors": [
         {
@@ -141,6 +143,7 @@
     {
       "id": "Eggenfelden",
       "group": "EDMM",
+      "remark": "EGG",
       "owner": ["EGG", "RDG", "ALB", "ZUG", "MMC"],
       "sectors": [
         {
@@ -202,6 +205,7 @@
     {
       "id": "Franken Low (Nürnberg)",
       "group": "APP",
+      "remark": "FRK",
       "owner": ["FRK", "BBG", "HOF", "RDG", "EGG", "MMC"],
       "sectors": [
         {
@@ -351,6 +355,7 @@
     {
       "id": "Füssen",
       "group": "EDMM",
+      "remark": "FUE",
       "owner": ["ZUG", "TRU", "RDG", "MMC"],
       "sectors": [
         {
@@ -506,6 +511,7 @@
     {
       "id": "Gera",
       "group": "EDMM",
+      "remark": "GER",
       "owner": ["GER", "HAL", "MEI", "HOF", "BOR", "MMC"],
       "sectors": [
         {
@@ -581,6 +587,7 @@
     {
       "id": "Halle",
       "group": "EDMM",
+      "remark": "HAL",
       "owner": ["HAL", "GER", "MEI", "HOF", "BOR", "MMC"],
       "sectors": [
         {
@@ -670,6 +677,7 @@
     {
       "id": "Hof",
       "group": "EDMM",
+      "remark": "HOF",
       "owner": ["HOF", "BBG", "RDG", "EGG", "MMC"],
       "sectors": [
         {
@@ -723,6 +731,7 @@
     {
       "id": "Iller (Memmingen)",
       "group": "APP",
+      "remark": "ILR",
       "owner": ["ILR", "SWA", "WLD", "ZUG", "TRU", "RDG", "MMC"],
       "sectors": [
         {
@@ -778,6 +787,7 @@
     {
       "id": "Meißen",
       "group": "EDMM",
+      "remark": "MEI",
       "owner": ["MEI", "GER", "HAL", "HOF", "BOR", "MMC"],
       "sectors": [
         {
@@ -857,6 +867,7 @@
     {
       "id": "Nördlingen",
       "group": "EDMM",
+      "remark": "NDG",
       "owner": ["NDG", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
@@ -982,6 +993,7 @@
     {
       "id": "Roding",
       "group": "EDMM",
+      "remark": "RDG",
       "owner": ["RDG", "ALB", "EGG", "ZUG", "MMC"],
       "sectors": [
         {
@@ -1053,6 +1065,7 @@
     {
       "id": "Sachsen Low (Dresden)",
       "group": "APP",
+      "remark": "SAS",
       "owner": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF", "BOR", "MMC"],
       "sectors": [
         {
@@ -1102,6 +1115,7 @@
     {
       "id": "Starnberg",
       "group": "EDMM",
+      "remark": "STA",
       "owner": ["TEG", "TRU", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
@@ -1157,6 +1171,7 @@
     {
       "id": "Schwaben",
       "group": "APP",
+      "remark": "SWA",
       "owner": ["SWA", "NDG", "ALB", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
@@ -1242,6 +1257,7 @@
     {
       "id": "Tegernsee",
       "group": "EDMM",
+      "remark": "TEG",
       "owner": ["TEG", "TRU", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
@@ -1321,6 +1337,7 @@
     {
       "id": "Freising (München North) High",
       "group": "APP",
+      "remark": "DMNH",
       "owner": [
         "DMNH",
         "DMSH",
@@ -1383,6 +1400,7 @@
     {
       "id": "Freising (München North) Low",
       "group": "APP",
+      "remark": "DMNL",
       "owner": [
         "DMNL",
         "DMSL",
@@ -1445,6 +1463,7 @@
     {
       "id": "Erding (München South) High",
       "group": "APP",
+      "remark": "DMSH",
       "owner": [
         "DMSH",
         "DMNH",
@@ -1505,6 +1524,7 @@
     {
       "id": "Erding (München South) Low",
       "group": "APP",
+      "remark": "DMSL",
       "owner": [
         "DMSL",
         "DMNL",
@@ -1565,6 +1585,7 @@
     {
       "id": "Thüringen (Leipzig) North",
       "group": "APP",
+      "remark": "TRN",
       "owner": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF", "BOR", "MMC"],
       "sectors": [
         {
@@ -1664,6 +1685,7 @@
     {
       "id": "Thüringen (Leipzig) South",
       "group": "APP",
+      "remark": "TRS",
       "owner": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF", "BOR", "MMC"],
       "sectors": [
         {
@@ -1723,6 +1745,7 @@
     {
       "id": "Traun",
       "group": "EDMM",
+      "remark": "TRU",
       "owner": ["TRU", "NDG", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
@@ -1806,6 +1829,7 @@
     {
       "id": "Walda",
       "group": "EDMM",
+      "remark": "WLD",
       "owner": ["WLD", "NDG", "EGG", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
@@ -1835,6 +1859,7 @@
     {
       "id": "Zugspitze",
       "group": "EDMM",
+      "remark": "ZUG",
       "owner": ["ZUG", "TRU", "RDG", "MMC"],
       "sectors": [
         {
@@ -1902,6 +1927,7 @@
     {
       "id": "Alpen 1",
       "group": "EDUU",
+      "remark": "ALP",
       "owner": [
         "ALP",
         "ISA",
@@ -1977,6 +2003,7 @@
     {
       "id": "Alpen 2",
       "group": "EDUU",
+      "remark": "ALP",
       "owner": [
         "ALP",
         "ISA",
@@ -2052,6 +2079,7 @@
     {
       "id": "Alpen 3",
       "group": "EDUU",
+      "remark": "ALP",
       "owner": [
         "ALP",
         "ISA",
@@ -2126,6 +2154,7 @@
     {
       "id": "Chiem 1",
       "group": "EDUU",
+      "remark": "CHI",
       "owner": [
         "CHI",
         "ISA",
@@ -2187,6 +2216,7 @@
     {
       "id": "Chiem 2",
       "group": "EDUU",
+      "remark": "CHI",
       "owner": [
         "CHI",
         "ISA",
@@ -2248,6 +2278,7 @@
     {
       "id": "Chiem 3",
       "group": "EDUU",
+      "remark": "CHI",
       "owner": [
         "CHI",
         "ISA",
@@ -2308,6 +2339,7 @@
     {
       "id": "Donau 1",
       "group": "EDUU",
+      "remark": "DON",
       "owner": [
         "DON",
         "ALP",
@@ -2369,6 +2401,7 @@
     {
       "id": "Donau 2",
       "group": "EDUU",
+      "remark": "DON",
       "owner": [
         "DON",
         "ALP",
@@ -2430,6 +2463,7 @@
     {
       "id": "Donau 3",
       "group": "EDUU",
+      "remark": "DON",
       "owner": [
         "DON",
         "ALP",
@@ -2490,6 +2524,7 @@
     {
       "id": "Erlangen 1",
       "group": "EDUU",
+      "remark": "ERL",
       "owner": [
         "ERL",
         "DON",
@@ -2559,6 +2594,7 @@
     {
       "id": "Erlangen 2",
       "group": "EDUU",
+      "remark": "ERL",
       "owner": [
         "ERL",
         "DON",
@@ -2627,6 +2663,7 @@
     {
       "id": "Isar 1",
       "group": "EDUU",
+      "remark": "ISA",
       "owner": [
         "ISA",
         "CHI",
@@ -2679,6 +2716,7 @@
     {
       "id": "Isar 2",
       "group": "EDUU",
+      "remark": "ISA",
       "owner": [
         "ISA",
         "CHI",
@@ -2731,6 +2769,7 @@
     {
       "id": "Isar 3",
       "group": "EDUU",
+      "remark": "ISA",
       "owner": [
         "ISA",
         "CHI",
@@ -2782,6 +2821,7 @@
     {
       "id": "Saale",
       "group": "EDUU",
+      "remark": "SAL",
       "owner": [
         "SAL",
         "SPE",
@@ -2860,6 +2900,7 @@
     {
       "id": "Spree",
       "group": "EDUU",
+      "remark": "SPE",
       "owner": [
         "SPE",
         "SAL",
@@ -2932,6 +2973,7 @@
     {
       "id": "Baden",
       "group": "EDGG",
+      "remark": "BAD",
       "owner": ["BAD", "DKB", "KTG"],
       "sectors": [
         {
@@ -3085,6 +3127,7 @@
     {
       "id": "Bottrop (Düsseldorf North)",
       "group": "APP",
+      "remark": "BOT",
       "owner": ["BOT", "DLD", "DUS", "DLF", "PADH", "RHR"],
       "sectors": [
         {
@@ -3318,6 +3361,7 @@
     {
       "id": "Köln",
       "group": "APP",
+      "remark": "DKA",
       "owner": ["DKA", "DKF", "NOR", "PADH", "RHR"],
       "sectors": [
         {
@@ -3449,6 +3493,7 @@
     {
       "id": "Dinkelsbühl",
       "group": "EDGG",
+      "remark": "DKB",
       "owner": ["DKB", "KTG", "BAD"],
       "sectors": [
         {
@@ -3546,6 +3591,7 @@
     {
       "id": "Eifel (Frankfurt Hahn)",
       "group": "APP",
+      "remark": "EIF",
       "owner": ["EIF", "RUD", "GIN", "KTG"],
       "sectors": [
         {
@@ -3665,6 +3711,7 @@
     {
       "id": "Frankfurt 1",
       "group": "EDUU",
+      "remark": "FFM",
       "owner": ["FFM", "WUR", "FUL", "NTM", "GIN", "RUD", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -3726,6 +3773,7 @@
     {
       "id": "Frankfurt 2",
       "group": "EDUU",
+      "remark": "FFM",
       "owner": ["FFM", "WUR", "FUL", "NTM", "GIN", "RUD", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -3754,6 +3802,7 @@
     {
       "id": "Frankfurt 3",
       "group": "EDUU",
+      "remark": "FFM",
       "owner": ["FFM", "WUR", "FUL", "NTM", "GIN", "RUD", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -3782,6 +3831,7 @@
     {
       "id": "Frankfurt 4",
       "group": "EDUU",
+      "remark": "FFM",
       "owner": ["FFM", "WUR", "FUL", "NTM", "GIN", "RUD", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -3809,6 +3859,7 @@
     {
       "id": "Fulda 1",
       "group": "EDUU",
+      "remark": "FUL",
       "owner": ["FUL", "WUR", "FFM", "NTM", "GIN", "RUD", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -3876,6 +3927,7 @@
     {
       "id": "Fulda 2",
       "group": "EDUU",
+      "remark": "FUL",
       "owner": ["FUL", "WUR", "FFM", "NTM", "GIN", "RUD", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -3925,6 +3977,7 @@
     {
       "id": "Fulda 3",
       "group": "EDUU",
+      "remark": "FUL",
       "owner": ["FUL", "WUR", "FFM", "NTM", "GIN", "RUD", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -3973,6 +4026,7 @@
     {
       "id": "Gedern",
       "group": "EDGG",
+      "remark": "GED",
       "owner": ["GED", "HEF", "GIN", "RUD", "KTG"],
       "sectors": [
         {
@@ -4126,6 +4180,7 @@
     {
       "id": "Gießen",
       "group": "EDGG",
+      "remark": "GIN",
       "owner": ["GIN", "RUD", "KTG"],
       "sectors": [
         {
@@ -4357,6 +4412,7 @@
     {
       "id": "Hammelburg",
       "group": "EDGG",
+      "remark": "HAB",
       "owner": ["HAB", "DKB", "KTG", "BAD"],
       "sectors": [
         {
@@ -4466,6 +4522,7 @@
     {
       "id": "Hersfeld",
       "group": "EDGG",
+      "remark": "HEF",
       "owner": ["HEF", "GIN", "RUD", "KTG"],
       "sectors": [
         {
@@ -4721,6 +4778,7 @@
     {
       "id": "Hamm (Münster)",
       "group": "APP",
+      "remark": "HMM",
       "owner": ["HMM", "PADL", "PADH", "MNS", "RHR"],
       "sectors": [
         {
@@ -4832,6 +4890,7 @@
     {
       "id": "Kirn",
       "group": "EDGG",
+      "remark": "KIR",
       "owner": ["KIR", "RUD", "GIN", "KTG"],
       "sectors": [
         {
@@ -4967,6 +5026,7 @@
     {
       "id": "König",
       "group": "EDGG",
+      "remark": "KNG",
       "owner": ["KNG", "DKB", "KTG", "BAD"],
       "sectors": [
         {
@@ -5110,6 +5170,7 @@
     {
       "id": "Kitzingen",
       "group": "EDGG",
+      "remark": "KTG",
       "owner": ["KTG", "DKB", "BAD"],
       "sectors": [
         {
@@ -5219,6 +5280,7 @@
     {
       "id": "Luburg",
       "group": "EDGG",
+      "remark": "LBU",
       "owner": ["LBU", "BAD", "DKB", "KTG"],
       "sectors": [
         {
@@ -5286,6 +5348,7 @@
     {
       "id": "Main",
       "group": "EDGG",
+      "remark": "MAIN",
       "owner": ["MAIN", "NKRH", "BAD", "DKB", "KTG"],
       "sectors": [
         {
@@ -5387,6 +5450,7 @@
     {
       "id": "Neckar High",
       "group": "EDGG",
+      "remark": "NKRH",
       "owner": ["NKRH", "BAD", "DKB", "KTG"],
       "sectors": [
         {
@@ -5496,6 +5560,7 @@
     {
       "id": "Neckar Low (Mannheim)",
       "group": "APP",
+      "remark": "NKRL",
       "owner": ["NKRL", "NKRH", "BAD", "DKB", "KTG"],
       "sectors": [
         {
@@ -5567,6 +5632,7 @@
     {
       "id": "Nörvenich (Köln Upper)",
       "group": "APP",
+      "remark": "NOR",
       "owner": ["NOR", "DKA", "DKF", "PADH", "RHR"],
       "sectors": [
         {
@@ -5790,6 +5856,7 @@
     {
       "id": "Nattenheim 1",
       "group": "EDUU",
+      "remark": "NTM",
       "owner": ["NTM", "FUL", "FFM", "WUR", "RUD", "GIN", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -5985,6 +6052,7 @@
     {
       "id": "Nattenheim 2",
       "group": "EDUU",
+      "remark": "NTM",
       "owner": ["NTM", "FUL", "FFM", "WUR", "RUD", "GIN", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -6078,6 +6146,7 @@
     {
       "id": "Nattenheim 3",
       "group": "EDUU",
+      "remark": "NTM",
       "owner": ["NTM", "FUL", "FFM", "WUR", "RUD", "GIN", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -6171,6 +6240,7 @@
     {
       "id": "Nattenheim 4",
       "group": "EDUU",
+      "remark": "NTM",
       "owner": ["NTM", "FUL", "FFM", "WUR", "RUD", "GIN", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -6263,6 +6333,7 @@
     {
       "id": "Paderborn High",
       "group": "EDGG",
+      "remark": "PADH",
       "owner": ["PADH", "MNS", "RHR"],
       "sectors": [
         {
@@ -6336,6 +6407,7 @@
     {
       "id": "Paderborn Low (Dortmund)",
       "group": "APP",
+      "remark": "PADL",
       "owner": ["PADL", "HMM", "PADH", "MNS", "RHR"],
       "sectors": [
         {
@@ -6473,6 +6545,7 @@
     {
       "id": "Pfalz (Saarbrücken)",
       "group": "APP",
+      "remark": "PFA",
       "owner": ["PFA", "EIF", "RUD", "GIN", "KTG"],
       "sectors": [
         {
@@ -6794,6 +6867,7 @@
     {
       "id": "Spessart",
       "group": "EDGG",
+      "remark": "PSA",
       "owner": ["PSA", "HAB", "DKB", "KTG", "BAD"],
       "sectors": [
         {
@@ -6857,6 +6931,7 @@
     {
       "id": "Reutlingen (Stuttgart South)",
       "group": "APP",
+      "remark": "REU",
       "owner": ["REU", "STG", "BAD", "DKB", "KTG"],
       "sectors": [
         {
@@ -7024,6 +7099,7 @@
     {
       "id": "Rüdesheim",
       "group": "EDGG",
+      "remark": "RUD",
       "owner": ["RUD", "GIN", "KTG"],
       "sectors": [
         {
@@ -7133,6 +7209,7 @@
     {
       "id": "Siegen",
       "group": "EDGG",
+      "remark": "SIG",
       "owner": ["SIG", "TAU", "GIN", "RUD", "KTG"],
       "sectors": [
         {
@@ -7258,6 +7335,7 @@
     {
       "id": "Söllingen 1",
       "group": "EDUU",
+      "remark": "SLN",
       "owner": ["SLN", "NTM", "FFM", "WUR", "BAD", "DKB", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -7481,6 +7559,7 @@
     {
       "id": "Söllingen 2",
       "group": "EDUU",
+      "remark": "SLN",
       "owner": ["SLN", "NTM", "FFM", "WUR", "BAD", "DKB", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -7704,6 +7783,7 @@
     {
       "id": "Söllingen 3",
       "group": "EDUU",
+      "remark": "SLN",
       "owner": ["SLN", "NTM", "FFM", "WUR", "BAD", "DKB", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -7926,6 +8006,7 @@
     {
       "id": "Stuttgart (North)",
       "group": "APP",
+      "remark": "STG",
       "owner": ["STG", "REU", "BAD", "DKB", "KTG"],
       "sectors": [
         {
@@ -8091,6 +8172,7 @@
     {
       "id": "Taunus",
       "group": "EDGG",
+      "remark": "TAU",
       "owner": ["TAU", "GIN", "RUD", "KTG"],
       "sectors": [
         {
@@ -8242,6 +8324,7 @@
     {
       "id": "Tango 1",
       "group": "EDUU",
+      "remark": "TGO",
       "owner": ["TGO", "SLN", "NTM", "WUR", "BAD", "DKB", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -8315,6 +8398,7 @@
     {
       "id": "Tango 2",
       "group": "EDUU",
+      "remark": "TGO",
       "owner": ["TGO", "SLN", "NTM", "WUR", "BAD", "DKB", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -8360,6 +8444,7 @@
     {
       "id": "Tango 3",
       "group": "EDUU",
+      "remark": "TGO",
       "owner": ["TGO", "SLN", "NTM", "WUR", "BAD", "DKB", "KTG", "euc/EME"],
       "sectors": [
         {
@@ -8404,6 +8489,7 @@
     {
       "id": "Würzburg 1",
       "group": "EDUU",
+      "remark": "WUR",
       "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "euc/EME"],
       "sectors": [
         {
@@ -8483,6 +8569,7 @@
     {
       "id": "Würzburg 2",
       "group": "EDUU",
+      "remark": "WUR",
       "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "euc/EME"],
       "sectors": [
         {
@@ -8524,6 +8611,7 @@
     {
       "id": "Würzburg 3",
       "group": "EDUU",
+      "remark": "WUR",
       "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "euc/EME"],
       "sectors": [
         {
@@ -8565,6 +8653,7 @@
     {
       "id": "Würzburg 4",
       "group": "EDUU",
+      "remark": "WUR",
       "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "euc/EME"],
       "sectors": [
         {
@@ -8605,6 +8694,7 @@
     {
       "id": "Münster High",
       "group": "EDYY",
+      "remark": "MNSH",
       "owner": [
         "MNS",
         "RHR",
@@ -8662,6 +8752,7 @@
     {
       "id": "Münster Low",
       "group": "EDYY",
+      "remark": "MNS",
       "owner": [
         "MNS",
         "RHR",
@@ -8792,6 +8883,7 @@
     {
       "id": "Ruhr High",
       "group": "EDYY",
+      "remark": "RHRH",
       "owner": ["RHR", "PADH", "euc/EMW"],
       "sectors": [
         {
@@ -8832,6 +8924,7 @@
     {
       "id": "Ruhr Low",
       "group": "EDYY",
+      "remark": "RHR",
       "owner": ["RHR", "PADH", "euc/EMW"],
       "sectors": [
         {
@@ -8953,6 +9046,7 @@
     {
       "id": "Frankfurt North",
       "group": "APP",
+      "remark": "FAN",
       "owner": [
         "FAN",
         "FFN",
@@ -9096,6 +9190,7 @@
     {
       "id": "Frankfurt South",
       "group": "APP",
+      "remark": "FAS",
       "owner": [
         "FAS",
         "FFS",
@@ -9270,6 +9365,7 @@
     {
       "id": "Düsseldorf",
       "group": "APP",
+      "remark": "DUS",
       "owner": ["DUS", "BOT", "DLD", "DLF", "PADH"],
       "sectors": [
         {
@@ -9364,6 +9460,7 @@
     {
       "id": "Aller",
       "group": "EDWW",
+      "remark": "ALR",
       "owner": ["ALR", "WWC"],
       "sectors": [
         {
@@ -9443,6 +9540,7 @@
     {
       "id": "Börde",
       "group": "EDWW",
+      "remark": "BOR",
       "owner": ["BOR", "MAR", "FLG", "MRZ", "WWC"],
       "sectors": [
         {
@@ -9532,6 +9630,7 @@
     {
       "id": "Berlin Arrival North",
       "group": "APP",
+      "remark": "DBAN",
       "owner": ["DBAN", "DBAS", "FLG", "BOR", "MAR", "MRZ", "WWC"],
       "sectors": [
         {
@@ -9620,6 +9719,7 @@
     {
       "id": "Berlin Arrival South",
       "group": "APP",
+      "remark": "DBAS",
       "owner": ["DBAS", "DBAN", "FLG", "BOR", "MAR", "MRZ", "WWC"],
       "sectors": [
         {
@@ -9825,6 +9925,7 @@
     {
       "id": "Berlin Departure North",
       "group": "APP",
+      "remark": "DBDN",
       "owner": [
         "DBDN",
         "DBDS",
@@ -9928,6 +10029,7 @@
     {
       "id": "Berlin Departure South",
       "group": "APP",
+      "remark": "DBDS",
       "owner": [
         "DBDS",
         "DBDN",
@@ -10079,6 +10181,7 @@
     {
       "id": "Deister",
       "group": "EDWW",
+      "remark": "DST",
       "owner": ["DST", "ALR", "WWC"],
       "sectors": [
         {
@@ -10178,6 +10281,7 @@
     {
       "id": "Eider East",
       "group": "EDWW",
+      "remark": "EIDE",
       "owner": ["EIDE", "ALR", "WWC"],
       "sectors": [
         {
@@ -10255,6 +10359,7 @@
     {
       "id": "Eider West",
       "group": "EDWW",
+      "remark": "EIDW",
       "owner": ["EIDW", "EIDE", "ALR", "WWC"],
       "sectors": [
         {
@@ -10326,6 +10431,7 @@
     {
       "id": "Ems",
       "group": "EDWW",
+      "remark": "EMS",
       "owner": ["EMS", "DST", "ALR", "WWC"],
       "sectors": [
         {
@@ -10449,6 +10555,7 @@
     {
       "id": "Fläming",
       "group": "EDWW",
+      "remark": "FLG",
       "owner": ["FLG", "BOR", "MAR", "MRZ", "WWC"],
       "sectors": [
         {
@@ -10548,6 +10655,7 @@
     {
       "id": "Friesland (Bremen)",
       "group": "APP",
+      "remark": "FRI",
       "owner": ["FRI", "EIDW", "EIDE", "ALR", "WWC"],
       "sectors": [
         {
@@ -10641,6 +10749,7 @@
     {
       "id": "Hamburg East",
       "group": "APP",
+      "remark": "HAME",
       "owner": ["HAME", "HAMW", "ALR", "WWC"],
       "sectors": [
         {
@@ -10706,6 +10815,7 @@
     {
       "id": "Hamburg West",
       "group": "APP",
+      "remark": "HAMW",
       "owner": ["HAMW", "HAME", "ALR", "WWC"],
       "sectors": [
         {
@@ -10755,6 +10865,7 @@
     {
       "id": "Hannover",
       "group": "APP",
+      "remark": "HAN",
       "owner": ["HAN", "HRZ", "DST", "ALR", "WWC"],
       "sectors": [
         {
@@ -10834,6 +10945,7 @@
     {
       "id": "Heide",
       "group": "EDWW",
+      "remark": "HEI",
       "owner": ["HEI", "ALR", "WWC"],
       "sectors": [
         {
@@ -10913,6 +11025,7 @@
     {
       "id": "Harz",
       "group": "EDWW",
+      "remark": "HRZ",
       "owner": ["HRZ", "DST", "ALR", "WWC"],
       "sectors": [
         {
@@ -11180,6 +11293,7 @@
     {
       "id": "Mark",
       "group": "EDWW",
+      "remark": "MAR",
       "owner": ["MAR", "MRZ", "BOR", "WWC"],
       "sectors": [
         {
@@ -11337,6 +11451,7 @@
     {
       "id": "Müritz",
       "group": "EDWW",
+      "remark": "MRZ",
       "owner": ["MRZ", "MAR", "BOR", "WWC"],
       "sectors": [
         {
@@ -11498,6 +11613,7 @@
     {
       "id": "Holzdorf SE",
       "group": "MAPP",
+      "remark": "TSHASE",
       "owner": ["TSHA", "DBAS", "DBAN", "FLG", "BOR", "MAR", "MRZ", "WWC"],
       "sectors": [
         {
@@ -11531,6 +11647,7 @@
     {
       "id": "Holzdorf NW",
       "group": "MAPP",
+      "remark": "TSHANW",
       "owner": [
         "TSHA",
         "DBU",
@@ -11566,6 +11683,7 @@
     {
       "id": "Holzdorf NW",
       "group": "MAPP",
+      "remark": "TSHANW",
       "owner": [
         "TSHA",
         "DBDS",
@@ -11601,6 +11719,7 @@
     {
       "id": "Ostsee 1",
       "group": "EDUU",
+      "remark": "OSE",
       "owner": ["OSE", "HVL", "MRZ", "MAR", "BOR", "WWC", "euc/EME"],
       "sectors": [
         {
@@ -11698,6 +11817,7 @@
     {
       "id": "Ostsee 2",
       "group": "EDUU",
+      "remark": "OSE",
       "owner": ["OH2", "OSE", "HVL", "MRZ", "MAR", "BOR", "WWC", "euc/EME"],
       "sectors": [
         {
@@ -11794,6 +11914,7 @@
     {
       "id": "Havel 1",
       "group": "EDUU",
+      "remark": "HVL",
       "owner": ["HVL", "OSE", "BOR", "FLG", "MAR", "MRZ", "WWC", "euc/EME"],
       "sectors": [
         {
@@ -11867,6 +11988,7 @@
     {
       "id": "Havel 2",
       "group": "EDUU",
+      "remark": "HVL",
       "owner": [
         "OH2",
         "HVL",
@@ -11949,6 +12071,7 @@
     {
       "id": "Celle Low",
       "group": "EDYY",
+      "remark": "CEL",
       "owner": ["CEL", "SOL", "DST", "ALR", "WWC", "MNS", "euc/EMW"],
       "sectors": [
         {
@@ -12014,6 +12137,7 @@
     {
       "id": "Celle High",
       "group": "EDYY",
+      "remark": "CELH",
       "owner": [
         "CELH",
         "SOLH",
@@ -12068,6 +12192,7 @@
     {
       "id": "Holstein Low",
       "group": "EDYY",
+      "remark": "HOL",
       "owner": ["HOL", "JEV", "CEL", "EIDE", "ALR", "WWC", "euc/EMW"],
       "sectors": [
         {
@@ -12153,6 +12278,7 @@
     {
       "id": "Holstein High",
       "group": "EDYY",
+      "remark": "HOLH",
       "owner": [
         "JEVH",
         "HOL",
@@ -12219,6 +12345,7 @@
     {
       "id": "Jever Low",
       "group": "EDYY",
+      "remark": "JEV",
       "owner": ["JEV", "CEL", "EIDW", "EIDE", "ALR", "WWC", "euc/EMW"],
       "sectors": [
         {
@@ -12286,6 +12413,7 @@
     {
       "id": "Jever High",
       "group": "EDYY",
+      "remark": "JEVH",
       "owner": [
         "JEVH",
         "CELH",
@@ -12362,6 +12490,7 @@
     {
       "id": "Solling Low",
       "group": "EDYY",
+      "remark": "SOL",
       "owner": ["SOL", "CEL", "DST", "ALR", "WWC", "MNS", "euc/EMW"],
       "sectors": [
         {
@@ -12435,6 +12564,7 @@
     {
       "id": "Solling High",
       "group": "EDYY",
+      "remark": "SOLH",
       "owner": [
         "SOLH",
         "CELH",
